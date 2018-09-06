@@ -1,0 +1,19 @@
+node_modules/
+typings/
+!public/bundle*
+!public/index*
+npm-debug.log
+.idea/
+dist/
+.tmp
+*iml
+!tools/*.js
+!gulpfile.js
+!*.config.js
+unused files/index.ts
+unused files/
+.vscode/
+mock-backend/node_modules
+mock-backend/release
+mock-backend/package-lock.json
+package-lock.json
